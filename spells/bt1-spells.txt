@@ -1,0 +1,472 @@
+Bard's Tale Online               The Bard's Tale: Tales of the Unknown
+http://www.bardstaleonline.com/           Quick Spellcasting Reference
+-=[oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]=-
+
+
+======================================================================
+== CONJURER SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MAFL    2  View    Medium    MAGE FLAME - A small, mobile "torch" will
+                              appear, and float above the spell caster
+                              as he travels.
+
+ARFI    3  1 Foe   -         ARC FIRE - A fan of blue flames will
+                              shoot from the caster's fingers, doing
+                              1-4 hits of damage to a select opponent,
+                              times caster's level.
+
+SOSH    3  Self    Combat    SORCERER SHIELD - The mage is protected
+                              by an invisible "shield" of magic, that
+                              turns aside many blows that would
+                              otherwise hit him.
+
+TRZP    2  30 feet -         TRAP ZAP - This spell will disarm any
+                              trap within 30 feet, in the direction
+                              the party is facing. It will also disarm
+                              traps on chests.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+FRFO    3  Group   Combat    FREEZE FOES - This spell binds your
+                              enemies with magical force, slowing 
+                              their movements and making them easier
+                              to hit.
+
+MACO    3  -       Medium    KIEL'S MAGIC COMPASS - A compass of
+                              shimmering magelight appears above the
+                              party, telling the direction they face.
+
+BASK    4  Char    Combat    BATTLESKILL - This spell increases one 
+                              of your party member's skill with 
+                              weapons, increasing the accuracy and 
+                              ferocity of his attacks.
+
+WOHL    4  Char    -         WORD OF HEALING - With the utterance of 
+                              a single word the spell caster can cure 
+                              a party member of minor wounds, healing 
+                              2-8 points of damage.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MAST    5  Group   -         ARCYNE'S MAGESTAR - A bright flare will 
+                              ignite in front of a group of your 
+                              enemies, temporarily blinding them and 
+                              causing them to miss the next combat 
+                              round.
+
+LERE    5  View    Long      LESSER REVELATION - This is an extended 
+                              "Mage Flame" spell which also reveals 
+                              secret doors.
+
+LEVI    4  Party   Short     LEVITATION - Partially negates the effect 
+                              of gravity on the party, causing them to 
+                              float over traps or up through portals.
+
+WAST    5  Group   -         WARSTRIKE - Causes a spray of energy to 
+                              spring from the caster's extended 
+                              finger, sizzling a group of opponents 
+                              for 4-16 hits damage.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+INWO    6  Special -         ELIK'S INSTANT WOLF - With this spell the 
+                              caster can make a real wolf appear and 
+                              join the party, fighting in its defense.
+
+FLRE    6  Char    -         FLESH RESTORE - This powerful healing 
+                              spell will restore 6-24 hit points to a 
+                              party member and cure poisoning and 
+                              insanity.
+
+POST    6  Foe     -         POISON STRIKE - This spell hurls 
+                              porcupine-sharp needles from the mage's 
+                              finger into a selected monster, 
+                              poisoning it.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+GRRE    7  View    Long      GREATER REVELATION - This spell functions 
+                              like "Lesser Revelation" spell, only it 
+                              illuminates a wider area.
+
+WROV    7  Char    Combat    WRATH OF VALHALLA - Makes a member of 
+                              your party fight with the strength and 
+                              accuracy of ancient Norse heroes for the 
+                              entire combat.
+
+SHSP    7  Group   -         SHOCK SPHERE - a large globe of intense 
+                              electrical energy envelops a group of 
+                              enemies, doing 8-32 hits of damage.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+INOG    9  Special -         ELIK'S INSTANT OGRE - This incantation 
+                              will cause a real ogre to appear and 
+                              join the party.
+
+MALE    8  Party   Indef.    MAJOR LEVITATION - This will make the 
+                              party levitate as does the level 3 
+                              spell, but its effects will last until 
+                              dispelled.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+FLAN   12  Party   -         FLESH ANEW - This spell behaves like the 
+                              "Flesh Restore" spell, except that it 
+                              will affect every member of the party.
+
+APAR   15  Party   -         APPORT ARCANE - Allows the party to 
+                              teleport anywhere within a dungeon, 
+                              except for places protected by 
+                              teleportation shields.
+
+======================================================================
+== MAGICIAN SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+VOPL    3  Char    Combat    VORPAL PLATING - This spell causes the 
+                              weapon (or hands) of a party member to 
+                              be covered with a magical field, which 
+                              causes him to do an additional 2-8 
+                              points of damage.
+
+AIAR    3  Self    Combat    AIR ARMOR - This spell will make the air 
+                              around the spell caster to bind itself 
+                              into a weightless suit of "armor."
+
+STLI    2  View    Short     SABHAR'S STEELIGHT SPELL - Causes all 
+                              metal near the party to glow with 
+                              magical light, illuminating the 
+                              surrounding area.
+
+SCSI    2  Party   -         SCRY SITE - The walls themselves will 
+                              speak, under direction of this spell, 
+                              revealing to the spell caster his 
+                              location in the labyrinth.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+HOWA    4  1 Foe   -         HOLY WATER - A spray of water will 
+                              emanate from the mage's fingers, doing 
+                              6-24 points of damage to any undead foe 
+                              (e.g. skeleton, zombie, vampire)
+
+WIST    5  1 Foe   -         WITHER STRIKE - Any foe at whom this 
+                              spell is cast is likely to be turned 
+                              old, thus reducing his ability to 
+                              attack and defend in combat.
+
+MAGA    5  Char    Combat    MAGE GAUNTLETS - Makes a party member's 
+                              hands (or weapons) more deadly, adding 
+                              4-16 points of damage to every wound he 
+                              inflicts.
+
+AREN    5  30 Feet Short     AREA ENCHANT - This spell will cause the 
+                              dungeon walls within 30 feet of a 
+                              stairway to call out, if the party is 
+                              traveling toward it.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MYSH    6  Party   Medium    YBARRA'S MYSTIC SHIELD - The air in front 
+                              of the party will bind itself into 
+                              metallic hardness and will accompany the 
+                              party when it moves, as a sort of 
+                              invisible "shield."
+
+OGST    6  Char    Combat    OSCON'S OGRESTRENGTH - Allows a member of 
+                              your party to damage monsters as if he 
+                              were as incredibly strong as an ogre.
+
+MIMI    7  Party   Combat    MITHRIL MIGHT - Increases the armor 
+                              protection of each party member by 
+                              enhancing their armor's natural strength 
+                              by magic.
+
+STFL    6  Group   -         STARFLARE - The air surrounding a group 
+                              of your enemies will instantly ignite, 
+                              causing them to be burnt for 6 to 24 
+                              damage points.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPTO    8  1 Foe   -         SPECTRE TOUCH - This spell will drain a 
+                              single enemy of 12 to 48 points of 
+                              damage, as if touched by a spectre.
+
+DRBR    7  Group   -         DRAGON BREATH - Allows the mage to 
+                              breathe fire at a group of foes, doing 
+                              8 to 32 points of damage to each.
+
+STSI    7  View    Medium    SABHAR'S STONELIGHT SPELL - Makes all 
+                              stone and earth within range of the 
+                              party glow with magical light, revealing 
+                              even secret doors.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+ANMA    8  Party   Combat    ANTI-MAGIC - Causes the ground to absorb 
+                              a portion of the magical energies cast 
+                              at the party, frequently allowing the 
+                              members to escape all damage. Also aids 
+                              in disbelieving illusions and in turning 
+                              back magical fire, like a dragon's 
+                              breath.
+
+ANSW    8  Special Combat    AKER'S ANIMATED SWORD - A magical sword 
+                              will appear and fight like a summoned 
+                              monster in defense of the party.
+
+STTO    8  1 Foe   -         STONE TOUCH - This spell will often turn 
+                              an enemy to stone, or a stone monster 
+                              from living stone to dead stone. But it 
+                              doesn't always work.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+PHDO    9  1 Wall  1 Move    PHASE DOOR - This incantation will alter 
+                              the structure of almost any wall 
+                              directly in front of the party, turning 
+                              it to air for exactly 1 move.
+
+YMCA   10  Party   Indef     YBARRA'S MYSTICAL COAT OF ARMOR - causes 
+                              an effect like "Air Armor" to cover 
+                              every member of the party, lasting 
+                              indefinitely.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+REST   12  Party   -         RESTORATION - Makes all wounds disappear 
+                              as your entire party is reforged into 
+                              unflawed bodies. Also cures poisoning 
+                              and insanity.
+
+DEST   14  1 Foe   -         DEATHSTRIKE - This incantation is very 
+                              likely to kill one selected enemy, big 
+                              or small.
+
+======================================================================
+== SORCERER SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MIJA    3  1 Foe   -         MANGAR'S MIND JAB - The mage casts a 
+                              concentrated blast of psychic energy at 
+                              one opponent doing 2-8 hits of damage 
+                              for each experience level of the mage.
+
+PHBL    2  Party   Combat    PHASE BLUR - The entire party will seem 
+                              to waver and blur in the sight of the 
+                              monsters, making the party very 
+                              difficult to strike.
+
+LOTR    2  30 Feet Short     LOCATE TRAPS - In a state of magically-
+                              heightened awareness, the spell caster 
+                              will be able to sense a trap within 30 
+                              feet, if he faces it.
+
+HYIM    3  Group   -         HYPNOTIC IMAGE - If successfully cast, 
+                              this spell will make a group of your 
+                              enemies miss the following attack 
+                              round.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+DISB    4  Party   -         DISBELIEVE - This spell will reveal the 
+                              true nature of any illusion attacking 
+                              the party, causing it to instantly 
+                              vanish.
+
+TADU    4  Special Combat    TARGET-DUMMY - A magical illusion appears 
+                              in the party's special slot. Unable to 
+                              attack, it will serve to draw enemy 
+                              attacks to himself.
+
+MIFI    4  1 Foe   -         MANGAR'S MIND FIST - A higher power "Mind 
+                              Jab," does 3-12 hits of damage to one 
+                              foe, times the experience level of the 
+                              mage.
+
+FEAR    4  Group   Combat    WORD OF FEAR - This incantation will make 
+                              a group of your enemies shake in fear, 
+                              reducing their ability to attack and do 
+                              damage.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIWO    5  Special -         WIND WOLF - This spell creates an 
+                              illusionary wolf to join the party. This 
+                              and other illusions are only effective 
+                              as long as an enemy "believes" them. 
+                              Depending on power and location, the 
+                              monster may see through the illusion, 
+                              and cause it to vanish.
+
+VANI    6  Self    Combat    KYLEARAN'S VANISHING SPELL - The mage 
+                              casting this spell will turn nearly 
+                              invisible in the eyes of his enemies, 
+                              who will have great difficulty in 
+                              striking him.
+
+SESI    6  30 Feet Medium    SECOND SIGHT - The mage will experience 
+                              heightened awareness and be able to 
+                              sense stairways, special encounters, 
+                              spell negation zones, and other unusual 
+                              occurrences.
+
+CURS    5  Group   Combat    CURSE - Causes a group of your enemies 
+                              to fear you greatly, lessening their 
+                              morale and their ability to hit and 
+                              damage you.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+CAEY    7  View    Indef     CAT EYES - The members of the mage's 
+                              party will all receive perfect night-
+                              vision, which will last indefinitely.
+
+WIWA    6  Special -         WIND WARRIOR - This spell will create the 
+                              illusion of a battle-ready warrior that 
+                              joins your party.
+
+INVI    7  Party   Combat    KYLEARAN'S INVISIBILITY SPELL - This 
+                              invocation will perform a Vanishing 
+                              Spell on the entire party.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIOG    7  Party   -         WIND OGRE - This spell will create the 
+                              illusion of an ogre, which will 
+                              accompany and fight with your party.
+
+DIIL    8  Party   Combat    DISRUPT ILLUSION - This spell will 
+                              destroy any illusion fighting the party, 
+                              and any new illusions created later in 
+                              the combat. It will also point out any 
+                              dopplegangers in the party.
+
+MIBL    8  All     ---       MANGAR'S MIND BLADE - A sharp explosion 
+                              of psychic energy that inflicts 10-40 
+                              hits to each and every enemy you face.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIDR   10  Special -         WIND DRAGON - This incantation will 
+                              create an illusionary red dragon to 
+                              fight with your party.
+
+MIWP    9  Char    -         MIND WARP - This spell will make a member 
+                              of your party go totally insane. Useful 
+                              for possessions.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIGI   12  Special -         WIND GIANT - This spell will create an 
+                              illusionary storm giant, to join with, 
+                              and fight for, your party.
+
+SOSI   11  30 Feet Indef     SORCERER SIGHT - This spell functions the 
+                              same as the "second sight", but it will 
+                              last indefinitely.
+
+======================================================================
+== WIZARD SPELLS =====================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SUDE    6  Special -         SUMMON DEAD - This will gate into our 
+                              universe a zombie or skeleton to fight 
+                              for the party.
+
+REDE    4  Group   -         REPEL DEAD - This spell will do 16 to 80 
+                              points of damage to a group of undead 
+                              creatures.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+LESU    8  Special -         LESSER SUMMONING - This spell will gate 
+                              into our universe a lower power 
+                              elemental or demon, who will (under 
+                              protest) join the party.
+
+DEBA    8  1 Foe   -         DEMON BANE - This spell will do 32 to 
+                              128 points of damage to a single demon. 
+                              The power to summon is the power to 
+                              destroy.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SUPH   10  Special -         SUMMON PHANTOM - This spell will bring a 
+                              medium level undead creature into the 
+                              party.
+
+DISP   10  Char    -         DISPOSSESS - This spell will make any 
+                              possessed party member to his normal 
+                              state.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+PRSU   12  Special -         PRIME SUMMONING - This spell gates in a 
+                              medium level elemental or demon, to 
+                              fight with the party.
+
+ANDE   11  Char    -         ANIMATE DEAD - Gives a dead character 
+                              undead strength, making him attack your 
+                              enemies as though he were truly alive.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPBI   14  1 Foe   -         BAYLOR'S SPELL BIND - This spell, if 
+                              successful, possesses the mind of any 
+                              enemy, forcing him to join your party 
+                              and fight in its defense.
+
+DMST   14  Group   -         DEMON STRIKE - This spell works like 
+                              Demon Bane, but it will affect an 
+                              entire group of demons.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPSP   15  Special -         SPELL SPIRIT - This spell will gate in a 
+                              higher-level undead creature to fight 
+                              for the party.
+
+BEDE   18  Char    -         BEYOND DEATH - This spell will restore 
+                              life and one hit point to a character.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+GRSU   22  Special -         GREATER SUMMONING - This spell will gate 
+                              a greater demon into our universe and 
+                              bind him to the party.

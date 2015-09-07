@@ -1,0 +1,127 @@
+======================================================================
+== CONJURER SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MAFL    2  View    Medium    MAGE FLAME - A small, mobile "torch" will
+                              appear, and float above the spell caster
+                              as he travels.
+
+ARFI    3  1 Foe   -         ARC FIRE - A fan of blue flames will
+                              shoot from the caster's fingers, doing
+                              1-4 hits of damage to a select opponent,
+                              times caster's level.
+
+SOSH    3  Self    Combat    SORCERER SHIELD - The mage is protected
+                              by an invisible "shield" of magic, that
+                              turns aside many blows that would
+                              otherwise hit him.
+
+TRZP    2  30 feet -         TRAP ZAP - This spell will disarm any
+                              trap within 30 feet, in the direction
+                              the party is facing. It will also disarm
+                              traps on chests.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+FRFO    3  Group   Combat    FREEZE FOES - This spell binds your
+                              enemies with magical force, slowing 
+                              their movements and making them easier
+                              to hit.
+
+MACO    3  -       Medium    KIEL'S MAGIC COMPASS - A compass of
+                              shimmering magelight appears above the
+                              party, telling the direction they face.
+
+BASK    4  Char    Combat    BATTLESKILL - This spell increases one 
+                              of your party member's skill with 
+                              weapons, increasing the accuracy and 
+                              ferocity of his attacks.
+
+WOHL    4  Char    -         WORD OF HEALING - With the utterance of 
+                              a single word the spell caster can cure 
+                              a party member of minor wounds, healing 
+                              2-8 points of damage.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MAST    5  Group   -         ARCYNE'S MAGESTAR - A bright flare will 
+                              ignite in front of a group of your 
+                              enemies, temporarily blinding them and 
+                              causing them to miss the next combat 
+                              round.
+
+LERE    5  View    Long      LESSER REVELATION - This is an extended 
+                              "Mage Flame" spell which also reveals 
+                              secret doors.
+
+LEVI    4  Party   Short     LEVITATION - Partially negates the effect 
+                              of gravity on the party, causing them to 
+                              float over traps or up through portals.
+
+WAST    5  Group   -         WARSTRIKE - Causes a spray of energy to 
+                              spring from the caster's extended 
+                              finger, sizzling a group of opponents 
+                              for 4-16 hits damage.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+INWO    6  Special -         ELIK'S INSTANT WOLF - With this spell the 
+                              caster can make a real wolf appear and 
+                              join the party, fighting in its defense.
+
+FLRE    6  Char    -         FLESH RESTORE - This powerful healing 
+                              spell will restore 6-24 hit points to a 
+                              party member and cure poisoning and 
+                              insanity.
+
+POST    6  Foe     -         POISON STRIKE - This spell hurls 
+                              porcupine-sharp needles from the mage's 
+                              finger into a selected monster, 
+                              poisoning it.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+GRRE    7  View    Long      GREATER REVELATION - This spell functions 
+                              like "Lesser Revelation" spell, only it 
+                              illuminates a wider area.
+
+WROV    7  Char    Combat    WRATH OF VALHALLA - Makes a member of 
+                              your party fight with the strength and 
+                              accuracy of ancient Norse heroes for the 
+                              entire combat.
+
+SHSP    7  Group   -         SHOCK SPHERE - a large globe of intense 
+                              electrical energy envelops a group of 
+                              enemies, doing 8-32 hits of damage.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+INOG    9  Special -         ELIK'S INSTANT OGRE - This incantation 
+                              will cause a real ogre to appear and 
+                              join the party.
+
+MALE    8  Party   Indef.    MAJOR LEVITATION - This will make the 
+                              party levitate as does the level 3 
+                              spell, but its effects will last until 
+                              dispelled.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+FLAN   12  Party   -         FLESH ANEW - This spell behaves like the 
+                              "Flesh Restore" spell, except that it 
+                              will affect every member of the party.
+
+APAR   15  Party   -         APPORT ARCANE - Allows the party to 
+                              teleport anywhere within a dungeon, 
+                              except for places protected by 
+                              teleportation shields.
+
+

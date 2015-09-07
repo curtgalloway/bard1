@@ -1,0 +1,62 @@
+Group spells: 
+
+Conjurer:
+
+
+
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+-------------------------------------------------------------------
+FRFO    3  Group   Combat   FREEZE FOES - This spell binds your
+                            enemies with magical force, slowing 
+                            their movements and making them easier
+                            to hit.
+
+
+MAST    5  Group   -        ARCYNE'S MAGESTAR - A bright flare will
+                            ignite in front of a group of your
+                            enemies, temporarily blinding them and
+                            causing them to miss the next combat
+                            round.
+
+WAST    5  Group   -        WARSTRIKE - Causes a spray of energy to
+                            spring from the caster's extended
+                            finger, sizzling a group of opponents
+                            for 4-16 hits damage.
+
+SHSP    7  Group   -        SHOCK SPHERE - a large globe of intense
+                            electrical energy envelops a group of
+                            enemies, doing 8-32 hits of damage.
+
+-------------------------------------------------------------------
+Magician:
+
+STFL    6  Group   -       STARFLARE - The air surrounding a group
+                           of your enemies will instantly ignite,
+                           causing them to be burnt for 6 to 24
+                           damage points. 
+
+DRBR    7  Group   -       DRAGON BREATH - Allows the mage to
+                           breathe fire at a group of foes, doing
+                           8 to 32 points of damage to each.
+
+-------------------------------------------------------------------
+Sorcerer:
+
+HYIM    3  Group   -       HYPNOTIC IMAGE - If successfully cast, 
+                           this spell will make a group of your
+                           enemies miss the following attack
+                           round.
+
+FEAR    4  Group   Combat WORD OF FEAR - This incantation will make
+                           a group of your enemies shake in fear,
+                           reducing their ability to attack and do
+                           damage.
+
+CURS    5  Group   Combat  CURSE - Causes a group of your enemies
+                           to fear you greatly, lessening their
+                           morale and their ability to hit and
+                           damage you.
+
+
+
+

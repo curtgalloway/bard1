@@ -1,0 +1,78 @@
+======================================================================
+== WIZARD SPELLS =====================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SUDE    6  Special -         SUMMON DEAD - This will gate into our 
+                              universe a zombie or skeleton to fight 
+                              for the party.
+
+REDE    4  Group   -         REPEL DEAD - This spell will do 16 to 80 
+                              points of damage to a group of undead 
+                              creatures.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+LESU    8  Special -         LESSER SUMMONING - This spell will gate 
+                              into our universe a lower power 
+                              elemental or demon, who will (under 
+                              protest) join the party.
+
+DEBA    8  1 Foe   -         DEMON BANE - This spell will do 32 to 
+                              128 points of damage to a single demon. 
+                              The power to summon is the power to 
+                              destroy.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SUPH   10  Special -         SUMMON PHANTOM - This spell will bring a 
+                              medium level undead creature into the 
+                              party.
+
+DISP   10  Char    -         DISPOSSESS - This spell will make any 
+                              possessed party member to his normal 
+                              state.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+PRSU   12  Special -         PRIME SUMMONING - This spell gates in a 
+                              medium level elemental or demon, to 
+                              fight with the party.
+
+ANDE   11  Char    -         ANIMATE DEAD - Gives a dead character 
+                              undead strength, making him attack your 
+                              enemies as though he were truly alive.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPBI   14  1 Foe   -         BAYLOR'S SPELL BIND - This spell, if 
+                              successful, possesses the mind of any 
+                              enemy, forcing him to join your party 
+                              and fight in its defense.
+
+DMST   14  Group   -         DEMON STRIKE - This spell works like 
+                              Demon Bane, but it will affect an 
+                              entire group of demons.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPSP   15  Special -         SPELL SPIRIT - This spell will gate in a 
+                              higher-level undead creature to fight 
+                              for the party.
+
+BEDE   18  Char    -         BEYOND DEATH - This spell will restore 
+                              life and one hit point to a character.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+GRSU   22  Special -         GREATER SUMMONING - This spell will gate 
+                              a greater demon into our universe and 
+                              bind him to the party.
+

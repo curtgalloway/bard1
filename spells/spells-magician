@@ -1,0 +1,133 @@
+======================================================================
+== MAGICIAN SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+VOPL    3  Char    Combat    VORPAL PLATING - This spell causes the 
+                              weapon (or hands) of a party member to 
+                              be covered with a magical field, which 
+                              causes him to do an additional 2-8 
+                              points of damage.
+
+AIAR    3  Self    Combat    AIR ARMOR - This spell will make the air 
+                              around the spell caster to bind itself 
+                              into a weightless suit of "armor."
+
+STLI    2  View    Short     SABHAR'S STEELIGHT SPELL - Causes all 
+                              metal near the party to glow with 
+                              magical light, illuminating the 
+                              surrounding area.
+
+SCSI    2  Party   -         SCRY SITE - The walls themselves will 
+                              speak, under direction of this spell, 
+                              revealing to the spell caster his 
+                              location in the labyrinth.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+HOWA    4  1 Foe   -         HOLY WATER - A spray of water will 
+                              emanate from the mage's fingers, doing 
+                              6-24 points of damage to any undead foe 
+                              (e.g. skeleton, zombie, vampire)
+
+WIST    5  1 Foe   -         WITHER STRIKE - Any foe at whom this 
+                              spell is cast is likely to be turned 
+                              old, thus reducing his ability to 
+                              attack and defend in combat.
+
+MAGA    5  Char    Combat    MAGE GAUNTLETS - Makes a party member's 
+                              hands (or weapons) more deadly, adding 
+                              4-16 points of damage to every wound he 
+                              inflicts.
+
+AREN    5  30 Feet Short     AREA ENCHANT - This spell will cause the 
+                              dungeon walls within 30 feet of a 
+                              stairway to call out, if the party is 
+                              traveling toward it.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MYSH    6  Party   Medium    YBARRA'S MYSTIC SHIELD - The air in front 
+                              of the party will bind itself into 
+                              metallic hardness and will accompany the 
+                              party when it moves, as a sort of 
+                              invisible "shield."
+
+OGST    6  Char    Combat    OSCON'S OGRESTRENGTH - Allows a member of 
+                              your party to damage monsters as if he 
+                              were as incredibly strong as an ogre.
+
+MIMI    7  Party   Combat    MITHRIL MIGHT - Increases the armor 
+                              protection of each party member by 
+                              enhancing their armor's natural strength 
+                              by magic.
+
+STFL    6  Group   -         STARFLARE - The air surrounding a group 
+                              of your enemies will instantly ignite, 
+                              causing them to be burnt for 6 to 24 
+                              damage points.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+SPTO    8  1 Foe   -         SPECTRE TOUCH - This spell will drain a 
+                              single enemy of 12 to 48 points of 
+                              damage, as if touched by a spectre.
+
+DRBR    7  Group   -         DRAGON BREATH - Allows the mage to 
+                              breathe fire at a group of foes, doing 
+                              8 to 32 points of damage to each.
+
+STSI    7  View    Medium    SABHAR'S STONELIGHT SPELL - Makes all 
+                              stone and earth within range of the 
+                              party glow with magical light, revealing 
+                              even secret doors.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+ANMA    8  Party   Combat    ANTI-MAGIC - Causes the ground to absorb 
+                              a portion of the magical energies cast 
+                              at the party, frequently allowing the 
+                              members to escape all damage. Also aids 
+                              in disbelieving illusions and in turning 
+                              back magical fire, like a dragon's 
+                              breath.
+
+ANSW    8  Special Combat    AKER'S ANIMATED SWORD - A magical sword 
+                              will appear and fight like a summoned 
+                              monster in defense of the party.
+
+STTO    8  1 Foe   -         STONE TOUCH - This spell will often turn 
+                              an enemy to stone, or a stone monster 
+                              from living stone to dead stone. But it 
+                              doesn't always work.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+PHDO    9  1 Wall  1 Move    PHASE DOOR - This incantation will alter 
+                              the structure of almost any wall 
+                              directly in front of the party, turning 
+                              it to air for exactly 1 move.
+
+YMCA   10  Party   Indef     YBARRA'S MYSTICAL COAT OF ARMOR - causes 
+                              an effect like "Air Armor" to cover 
+                              every member of the party, lasting 
+                              indefinitely.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+REST   12  Party   -         RESTORATION - Makes all wounds disappear 
+                              as your entire party is reforged into 
+                              unflawed bodies. Also cures poisoning 
+                              and insanity.
+
+DEST   14  1 Foe   -         DEATHSTRIKE - This incantation is very 
+                              likely to kill one selected enemy, big 
+                              or small.
+

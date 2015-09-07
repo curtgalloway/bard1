@@ -1,0 +1,30 @@
+Bard's Tale Online               The Bard's Tale: Tales of the Unknown
+http://www.bardstaleonline.com/             Quick Bard Songs Reference
+-=[oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]=-
+
+
+BARD SONGS
+----------------------------------------------------------------------
+1. FALKENTYNE'S FURY     This tune increases the damage your party 
+                         will do in combat, by driving them into a 
+                         berserker rage.
+
+2. THE SEEKER'S BALLAD   This song will produce light when exploring, 
+                         and during combat it will increase the 
+                         party's chance of hitting a foe with a weapon.
+
+3. WAYLAND'S WATCH       This song will soothe your savage foes, 
+                         making them do less damage in combat.
+
+4. BADH'R KILNFEST       This is an ancient Elven melody, which will 
+                         heal the Bard's wounds during traveling, and 
+                         heal the party's wounds during combat.
+
+5. THE TRAVELLER'S TUNE  This melody makes the members of your party 
+                         more dexterous and agile, and thus more 
+                         difficult to hit.
+
+6. LUCKLARAN             This song sets up a partial "anti-magic" 
+                         field, which gives party members some 
+                         increased protection against spell casting.
+

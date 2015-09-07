@@ -1,0 +1,132 @@
+======================================================================
+== SORCERER SPELLS ===================================================
+
+Level 1
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+MIJA    3  1 Foe   -         MANGAR'S MIND JAB - The mage casts a 
+                              concentrated blast of psychic energy at 
+                              one opponent doing 2-8 hits of damage 
+                              for each experience level of the mage.
+
+PHBL    2  Party   Combat    PHASE BLUR - The entire party will seem 
+                              to waver and blur in the sight of the 
+                              monsters, making the party very 
+                              difficult to strike.
+
+LOTR    2  30 Feet Short     LOCATE TRAPS - In a state of magically-
+                              heightened awareness, the spell caster 
+                              will be able to sense a trap within 30 
+                              feet, if he faces it.
+
+HYIM    3  Group   -         HYPNOTIC IMAGE - If successfully cast, 
+                              this spell will make a group of your 
+                              enemies miss the following attack 
+                              round.
+
+Level 2
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+DISB    4  Party   -         DISBELIEVE - This spell will reveal the 
+                              true nature of any illusion attacking 
+                              the party, causing it to instantly 
+                              vanish.
+
+TADU    4  Special Combat    TARGET-DUMMY - A magical illusion appears 
+                              in the party's special slot. Unable to 
+                              attack, it will serve to draw enemy 
+                              attacks to himself.
+
+MIFI    4  1 Foe   -         MANGAR'S MIND FIST - A higher power "Mind 
+                              Jab," does 3-12 hits of damage to one 
+                              foe, times the experience level of the 
+                              mage.
+
+FEAR    4  Group   Combat    WORD OF FEAR - This incantation will make 
+                              a group of your enemies shake in fear, 
+                              reducing their ability to attack and do 
+                              damage.
+
+Level 3
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIWO    5  Special -         WIND WOLF - This spell creates an 
+                              illusionary wolf to join the party. This 
+                              and other illusions are only effective 
+                              as long as an enemy "believes" them. 
+                              Depending on power and location, the 
+                              monster may see through the illusion, 
+                              and cause it to vanish.
+
+VANI    6  Self    Combat    KYLEARAN'S VANISHING SPELL - The mage 
+                              casting this spell will turn nearly 
+                              invisible in the eyes of his enemies, 
+                              who will have great difficulty in 
+                              striking him.
+
+SESI    6  30 Feet Medium    SECOND SIGHT - The mage will experience 
+                              heightened awareness and be able to 
+                              sense stairways, special encounters, 
+                              spell negation zones, and other unusual 
+                              occurrences.
+
+CURS    5  Group   Combat    CURSE - Causes a group of your enemies 
+                              to fear you greatly, lessening their 
+                              morale and their ability to hit and 
+                              damage you.
+
+Level 4
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+CAEY    7  View    Indef     CAT EYES - The members of the mage's 
+                              party will all receive perfect night-
+                              vision, which will last indefinitely.
+
+WIWA    6  Special -         WIND WARRIOR - This spell will create the 
+                              illusion of a battle-ready warrior that 
+                              joins your party.
+
+INVI    7  Party   Combat    KYLEARAN'S INVISIBILITY SPELL - This 
+                              invocation will perform a Vanishing 
+                              Spell on the entire party.
+
+Level 5
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIOG    7  Party   -         WIND OGRE - This spell will create the 
+                              illusion of an ogre, which will 
+                              accompany and fight with your party.
+
+DIIL    8  Party   Combat    DISRUPT ILLUSION - This spell will 
+                              destroy any illusion fighting the party, 
+                              and any new illusions created later in 
+                              the combat. It will also point out any 
+                              dopplegangers in the party.
+
+MIBL    8  All     ---       MANGAR'S MIND BLADE - A sharp explosion 
+                              of psychic energy that inflicts 10-40 
+                              hits to each and every enemy you face.
+
+Level 6
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIDR   10  Special -         WIND DRAGON - This incantation will 
+                              create an illusionary red dragon to 
+                              fight with your party.
+
+MIWP    9  Char    -         MIND WARP - This spell will make a member 
+                              of your party go totally insane. Useful 
+                              for possessions.
+
+Level 7
+CODE  PTS  RANGE   DURATION  DESCRIPTION
+----------------------------------------------------------------------
+WIGI   12  Special -         WIND GIANT - This spell will create an 
+                              illusionary storm giant, to join with, 
+                              and fight for, your party.
+
+SOSI   11  30 Feet Indef     SORCERER SIGHT - This spell functions the 
+                              same as the "second sight", but it will 
+                              last indefinitely.
+
+
